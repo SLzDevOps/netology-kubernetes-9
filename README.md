@@ -6,16 +6,15 @@
 
 
 ### Задача 1
-
-
-
+  
    
-![alt text](https://github.com/SLzDevOps/netology-kubernetes-6/blob/main/screeenshots/Screenshot_1010.png).
-![alt text](https://github.com/SLzDevOps/netology-kubernetes-6/blob/main/screeenshots/Screenshot_1011.png).
+![alt text](https://github.com/SLzDevOps/netology-kubernetes-9/blob/main/screenshots/Screenshot_1026.png).
+![alt text](https://github.com/SLzDevOps/netology-kubernetes-9/blob/main/screenshots/Screenshot_1027.png).
       
     
 ### Задача 2
-  
 
-  
-![alt text](https://github.com/SLzDevOps/netology-kubernetes-6/blob/main/screeenshots/Screenshot_1012.png).
+    
+![alt text](https://github.com/SLzDevOps/netology-kubernetes-9/blob/main/screenshots/Screenshot_1029.png).
+![alt text](https://github.com/SLzDevOps/netology-kubernetes-9/blob/main/screenshots/Screenshot_1030.png).
+![alt text](https://github.com/SLzDevOps/netology-kubernetes-9/blob/main/screenshots/Screenshot_1032.png).
