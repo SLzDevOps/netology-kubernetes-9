@@ -2,9 +2,9 @@
 
 ## Ссылка на Д3 - https://github.com/netology-code/kuber-homeworks/blob/main/3.2/3.2.md
 
-## Ссылка на репозиторий - https://github.com/SLzDevOps/netology-kubernetes-6
-
-
+## Ссылка на репозиторий - https://github.com/SLzDevOps/netology-kubernetes-9/tree/main
+  
+  
 ### Задача 1
   
    
